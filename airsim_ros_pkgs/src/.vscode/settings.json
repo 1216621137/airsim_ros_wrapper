@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mao/airsim/AirSim/ros/devel/lib/python2.7/dist-packages",
+        "/home/mao/FlightMare/devel/lib/python2.7/dist-packages",
+        "/home/mao/catkin_slam/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}
